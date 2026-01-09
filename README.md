@@ -1,5 +1,5 @@
 # OSINT_Tools
-A clone of the now dead OSINT_Tools repository from Shandymen
+A clone of the now dead OSINT_Tools repository from [Shandymen](https://github.com/shandymen)
 
 A Repo for in-house Scripts developed by the Shandymen. These will mostly be developed in Python, so it would be good to have the following stuff installed!
 
